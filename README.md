@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobSchilderr
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React, NextJS
-- 📫 How to reach me www.robschilder.com
+- 📫 www.robschilder.com
 
 <!---
 RobSchilderr/RobSchilderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
