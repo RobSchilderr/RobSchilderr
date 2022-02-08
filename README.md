@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobSchilderr
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, NextJS, NodeJS
+- 👀 I’m interested in Web Development and entrepreneurship
+- 🌱 I’m currently working with React, NextJS, NodeJS, Typescript, GraphQL and relational databases.
 - 📫 www.robschilder.com
 
 Check out www.howhotwillitget.com for one of my large projects 🔥
