@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobSchilderr
-- 👀 I’m interested in entrepreneurship, activism and web development
+- 👀 I’m interested in entrepreneurship and web development
 - 🌱 I’m currently developing with Typescript, SQL and GraphQL, primarily in React, NextJS, NodeJS.
 - 📫 www.robschilder.com
 
