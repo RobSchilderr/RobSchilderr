@@ -5,7 +5,7 @@
 
 Check out www.howhotwillitget.com for one of my large projects 🔥
 
-I work at www.lokalist.nl a Dutch startup in e-commerce which tries to get farmers and local shopkeepers to cooperate on one online platform 🧑‍🌾 
+I work at www.lokalist.nl a Dutch startup in e-commerce which tries to get farmers and local shopkeepers to cooperate 🧑‍🌾 
 
 
 <!---
