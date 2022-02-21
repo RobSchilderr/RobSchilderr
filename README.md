@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
-- 🌱 I’m currently learning **Capacitor, NodeJS**
-
-- 👯 I’m looking to collaborate on **Capacitor, React projects written in Typescript**
+- 🌱 I’m currently learning **Capacitor, NodeJS, SQL**
 
 - 👨‍💻 All of my projects are available at [www.robschilder.com](www.robschilder.com)
 
