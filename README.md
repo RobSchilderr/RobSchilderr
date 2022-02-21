@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
 <h3 align="center">A passionate frontend developer from Amsterdam</h3>
 
-- 🔭 I’m currently working on [de Lokalist](https://lokalist.nl)
+- 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
 - 🌱 I’m currently learning **Capacitor, NodeJS**
 
