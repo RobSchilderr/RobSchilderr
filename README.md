@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
-- 🌱 I’m currently learning **Capacitor, NodeJS, SQL**
+- 🌱 I’m currently learning **NodeJS, SQL**
 
 - 👨‍💻 All of my projects are available at [www.robschilder.com](www.robschilder.com)
 
-- 💬 Ask me about **React, NextJS**
+- 💬 Ask me about **React, NextJS, Capacitor**
 
 - 📫 How to reach me **me@robschilder.com**
 
