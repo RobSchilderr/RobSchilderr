@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
 
-- 🌱 I’m currently learning **NodeJS**
-
 - 👨‍💻 All of my projects are available at [www.robschilder.com](www.robschilder.com)
 
 - 💬 Ask me about **React, NextJS, Capacitor**
