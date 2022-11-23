@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
-<h3 align="center">A passionate frontend developer from Amsterdam, specialized in React</h3>
+<h3 align="center">Developer, socially engaged, entrepreneurial mindset</h3>
 
-- 🔭 I’m currently working on [Lokalist](https://lokalist.nl)
+- 🔭 I’m currently working at [Lokalist](https://lokalist.nl)
 
 - 👨‍💻 All of my projects are available at [www.robschilder.com](www.robschilder.com)
 
