@@ -2,9 +2,7 @@
 <h3 align="center">Developer, socially engaged, entrepreneurial mindset</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.robschilder.com](www.robschilder.com)
-
-- 💬 Ask me about **React, NextJS, Capacitor**
+- 🤌 All of my projects are available at [www.robschilder.com](www.robschilder.com)
 
 - 📫 How to reach me **me@robschilder.com**
 
