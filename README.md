@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
-<h3 align="center">Developer, socially engaged, entrepreneurial mindset</h3>
 
 
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
