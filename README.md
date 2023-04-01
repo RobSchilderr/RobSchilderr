@@ -5,7 +5,7 @@
 
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
 
-- 📫 How to reach me **me@robschilder.com**
+- 📫 How to reach **me@robschilder.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
