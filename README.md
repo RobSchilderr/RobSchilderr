@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
 
-<p>I am deeply interested in the intersections of entrepreneurship, software development, and artificial intelligence, particularly in how we can apply these fields to address the pressing issue of climate change. I am eager to explore innovative ways to utilize computer science to mitigate and adapt to the impacts of climate change, creating a more sustainable and resilient future. </p>
+<p>I am interested in the intersections of entrepreneurship, software development, and artificial intelligence, particularly in how we can apply these fields to address climate change.
+ </p>
 
 
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
