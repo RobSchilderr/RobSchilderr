@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
 
-<p>I am interested in the intersections of entrepreneurship, software development, and artificial intelligence, particularly in how we can apply these fields to address climate change.
+<p>I am interested in the intersections of entrepreneurship and software development, particularly in how we can apply these fields to address climate change.
  </p>
 
 
