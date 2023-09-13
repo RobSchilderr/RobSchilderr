@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rob Schilder</h1>
+<h1 align="center">Hi 👋, I'm Rob Schilder, Cross platform maker 🏄‍♂️</h1>
 
-<p>Cross platform developer 🏄‍♂️
- </p>
+<p>Cross platform maker 🏄‍♂️ </p>
 
 
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
