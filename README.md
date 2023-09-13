@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
 
-<h2>Cross platform maker 🏄‍♂️ </h2>
+<p>Cross platform maker 🏄‍♂️ </p>
 
 
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
