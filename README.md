@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob Schilder</h1>
 
-<p>cross platform dev 🏄‍♂️
+<p>Cross platform developer 🏄‍♂️
  </p>
 
 
