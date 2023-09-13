@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rob Schilder</h1>
-
-
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
 
 - 📫 How to reach **me@robschilder.com**
