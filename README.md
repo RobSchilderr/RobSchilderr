@@ -1,6 +1,6 @@
 - 🤌 All of my projects are available at [www.robschilder.com](https://www.robschilder.com)
 
-- 📫 How to reach: send a message on LinkedIn or Twitter for a quickly reply
+- 📫 How to reach: send a message on LinkedIn or Twitter for a quick reply
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
